@@ -3,6 +3,10 @@
 
 ## 🇬🇧 English README
 
+
+![C](https://img.shields.io/badge/language-C-blue)
+
+Bu proje, C programlama dilinin temel yapılarını tanıtmak amacıyla oluşturulmuştur...
 ```markdown
 # C Programming Tutorial Project
 
