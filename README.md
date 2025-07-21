@@ -19,19 +19,6 @@ This project is designed to introduce core concepts of the C programming languag
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" alt="Coding Animation" width="450" style="border-radius: 12px; box-shadow: 0 0 15px #0f2027;" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="C Language Icon" width="80" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn-icons-png.flaticon.com/512/2773/2773598.png" alt="Code File Icon" width="80" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn-icons-png.flaticon.com/512/1484/1484461.png" alt="Calculator Icon" width="80" />
-</p>
 
 ---
 
